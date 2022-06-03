@@ -33,6 +33,13 @@ Lot 1 and Lot 2 are both within design specifications and have the same exact me
 
 
 ## Study Design: MechaCar vs Competition
+Horse power being a consistent unit of measure, doesn't tell us specific information we need to know about the engine or the vehichle performance. It really just gives  a comparison to the power with other cars, and this might affect the consumer's desicion, along with the mpg and how large the engine actually is. 
+
 ### Comparisson Metrics:
+This metric can determine how much performace power of other vehicles.
+
 ### Hypothesis: Null and Alternative
+Null hypothesis stating it's not differnt or the same from our competitors. 
+
 ### Statistical Tests
+Use t-tests after collecting data from  other vehicle merchandisers and the t-test will compare the population of all types of competitor vehicles. 
