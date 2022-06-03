@@ -15,8 +15,23 @@ The R-squared value is 71%, which means roughly ~71% of the time the model will 
 
 ## Summary Statistics on Suspension Coils
 - Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+Lot 1 and Lot 2 are both within design specifications and have the same exact mean and median. Lot 3 shows the most variance and exceeds the manufacturers specs.
+
+![Lot summary](https://user-images.githubusercontent.com/92067596/171860240-c1b85ed2-50ca-40c7-b1ed-925f7dc019cb.png)
+
+
 ## T-Tests on Suspension Coils
--
+
+
+![sample 1](https://user-images.githubusercontent.com/92067596/171861436-e07979fd-ad04-45ce-b9ac-312a33d9df7c.png)
+
+![Sample 2](https://user-images.githubusercontent.com/92067596/171861446-78db8804-bc2b-4739-8777-05e1ac3efc2c.png)
+
+![sample 3](https://user-images.githubusercontent.com/92067596/171861460-884a4d68-4bc4-4260-8932-313c1319195c.png)
+
+![Sample 4](https://user-images.githubusercontent.com/92067596/171861466-5142a9e7-4c2b-4020-b7ff-a210d19e03b6.png)
+
+
 ## Study Design: MechaCar vs Competition
 ### Comparisson Metrics:
 ### Hypothesis: Null and Alternative
